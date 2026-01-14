@@ -59,6 +59,6 @@ I utilized **ROC-AUC Curves** to ensure the model maintains a high True Positive
 
 1. **Clone & Install:**
    ```bash
-   git clone [https://github.com/your-username/heart-disease-ml.git](https://github.com/your-username/heart-disease-ml.git)
-   cd heart-disease-ml
+   git clone https://github.com/kanishkraj-ops/Heart-Disease-Classification-Using-Machine-Learning
+   cd Heart-Disease-Classification-Using-Machine-Learning
    pip install pandas numpy matplotlib seaborn scikit-learn
