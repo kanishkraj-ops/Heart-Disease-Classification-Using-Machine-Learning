@@ -3,7 +3,6 @@
 ### **A Comparative Machine Learning Study**
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange)](https://scikit-learn.org/)
-[![Status](https://img.shields.io/badge/Project-Hackathon%20Ready-green)]()
 
 ## 📌 1. Project Objective
 The goal is to provide a data-driven approach to medical diagnosis. Using the UCI Heart Disease dataset, I developed a classification system to predict presence of heart disease with high recall, ensuring that high-risk patients are not overlooked.
